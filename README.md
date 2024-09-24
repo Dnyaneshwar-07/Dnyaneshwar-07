@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mauli072
+- 👋 Hi, I’m @M72
 - 👀 I’m interested in write a program
 - 🌱 I’m currently learning java programing language
 - 💞️ I’m looking to collaborate on new projects
