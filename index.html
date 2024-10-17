@@ -75,12 +75,21 @@
         </div>
     </div>
 
-   
+   <!-- js code -->
+         <script>
+            const container = document.getElementById('container');
+            const overlayCon = document.getElementById('overlayCon');
+            const overlayBtn = document.getElementById('overlayBtn');
+    
+            overlayBtn.addEventListener('click',()=>{
+                container.classlist.toggle('right-panel-active');
+            })
+    
+        </script>
 
-    <!-- js code -->
-    <script>
-
-    </script>
+    
+    
 
 </body>
+
 </html>
